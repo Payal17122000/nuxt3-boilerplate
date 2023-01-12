@@ -7,8 +7,8 @@
 <script setup>
 let a = 0
 if (a == 0) {
-  console.log('hii')
+console.log('hii hello')
 } else {
-  console.log('byy')
+console.log('byy')
 }
 </script>
