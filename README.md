@@ -4,17 +4,16 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Setup
 
+```bash
+# clone repo
+git clone git@github.com:Payal17122000/nuxt3-boilerplate.git
+```
+
 Make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn install
-
 # npm
 npm install
-
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
 ## Development Server
@@ -25,18 +24,17 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
-## Production
+## Included Packages
 
-Build the application for production:
+- Bootstrap
+- Pinia
+- Axios
+- Eslint - on commit 
+- Prettier - on commit
 
-```bash
-npm run build
-```
+## Remaining Task
 
-Locally preview production build:
+- Eslint - on save
+- Prettier - on save
 
-```bash
-npm run preview
-```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
