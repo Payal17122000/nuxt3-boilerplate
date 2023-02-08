@@ -31,6 +31,13 @@ npm run dev
 - Axios
 - Eslint - on commit 
 - Prettier - on commit
+- vitest - for testcases
+
+## To run testcases in project
+
+```
+npm run test
+```
 
 ## Remaining Task
 
