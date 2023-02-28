@@ -1,9 +1,9 @@
 <template>
-  <div class="text-center main-page">Welcome to Nuxt3</div>
+  <div class="text-center homepage">Welcome to Nuxt3</div>
 </template>
 
 <style scoped>
-.main-page {
+.homepage {
   margin-top: 400px;
   font-size: 30px;
 }
